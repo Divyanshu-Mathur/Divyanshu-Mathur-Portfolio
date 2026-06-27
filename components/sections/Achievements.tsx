@@ -8,7 +8,7 @@ import { Github, Linkedin } from "../ui/Icons";
 
 const stats = [
   { label: "CGPA", value: 9.14, suffix: "", isFloat: true },
-  { label: "AI/ML Projects", value: 10, suffix: "+", isFloat: false },
+  { label: "AI/ML Projects", value: 20, suffix: "+", isFloat: false },
   { label: "DSA Problems Solved", value: 1000, suffix: "+", isFloat: false },
 ];
 

@@ -110,7 +110,7 @@ export default function Hero() {
         </h1>
 
         <div className="text-xl md:text-3xl font-medium text-gray mb-8 h-10 flex items-center justify-center">
-          <TypewriterText text={["AI/ML Engineer", "Data Scientist", "Data Analyst"]} delay={0.5} />
+          <TypewriterText text={["AI/ML Engineer", "Data Scientist", "Data Analyst"]} delay={0.1} />
         </div>
 
         <FadeUpText 
